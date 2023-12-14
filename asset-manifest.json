@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/woodcraftwebsite/static/css/main.1aa44c28.css",
+    "main.js": "/woodcraftwebsite/static/js/main.661496d7.js",
+    "static/media/lighting.png": "/woodcraftwebsite/static/media/lighting.b93ef7895f2007c55b65.png",
+    "static/media/chair.png": "/woodcraftwebsite/static/media/chair.7934d1414b394eee02b1.png",
+    "static/media/features-1.png": "/woodcraftwebsite/static/media/features-1.e533cdf28f8b73c2eed5.png",
+    "static/media/bed.png": "/woodcraftwebsite/static/media/bed.84bd91f5008c630129c2.png",
+    "static/media/cupboard.png": "/woodcraftwebsite/static/media/cupboard.57ca02a1d9634835f45d.png",
+    "static/media/features-2.png": "/woodcraftwebsite/static/media/features-2.9eae1c234457252ec49c.png",
+    "static/media/newsletter.png": "/woodcraftwebsite/static/media/newsletter.5d2a91697d83405f77fc.png",
+    "static/media/product-2.png": "/woodcraftwebsite/static/media/product-2.b6c89e7d75cdd2b68a4a.png",
+    "static/media/testimonial.png": "/woodcraftwebsite/static/media/testimonial.00e4cf3fe5f671dc610c.png",
+    "static/media/product-4.png": "/woodcraftwebsite/static/media/product-4.ceeb7c8fec194f23a9fe.png",
+    "static/media/product-8.png": "/woodcraftwebsite/static/media/product-8.220c9a6401ee275c792f.png",
+    "static/media/product-7.png": "/woodcraftwebsite/static/media/product-7.656494b2d080658a746b.png",
+    "static/media/product-3.png": "/woodcraftwebsite/static/media/product-3.1e87645284d44629274f.png",
+    "static/media/hero-bg.png": "/woodcraftwebsite/static/media/hero-bg.5fd0facfe822f7096f5a.png",
+    "static/media/product-6.png": "/woodcraftwebsite/static/media/product-6.b2685f2e7de6906c5e47.png",
+    "static/media/product-9.png": "/woodcraftwebsite/static/media/product-9.32dd418a02fcfd39ee2b.png",
+    "static/media/product-10.png": "/woodcraftwebsite/static/media/product-10.a533aa61a2f75ad767fb.png",
+    "static/media/product-1.png": "/woodcraftwebsite/static/media/product-1.ce0547a052da510e6ed3.png",
+    "static/media/logo.png": "/woodcraftwebsite/static/media/logo.e4ee6636741c0ca50233.png",
+    "static/media/product-5.png": "/woodcraftwebsite/static/media/product-5.1bbc4f4be4e932e3b6f3.png",
+    "static/media/avatar-3.png": "/woodcraftwebsite/static/media/avatar-3.139cf9bf423382872360.png",
+    "static/media/avatar-2.png": "/woodcraftwebsite/static/media/avatar-2.ae52c9a34ee0972574e2.png",
+    "static/media/avatar-4.png": "/woodcraftwebsite/static/media/avatar-4.8247eafdc9e6398e48d2.png",
+    "static/media/avatar-1.png": "/woodcraftwebsite/static/media/avatar-1.aabbb166b2124eb5f652.png",
+    "index.html": "/woodcraftwebsite/index.html",
+    "main.1aa44c28.css.map": "/woodcraftwebsite/static/css/main.1aa44c28.css.map",
+    "main.661496d7.js.map": "/woodcraftwebsite/static/js/main.661496d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1aa44c28.css",
+    "static/js/main.661496d7.js"
+  ]
+}
